@@ -1,3 +1,5 @@
 This is the file created from branch feature 2.
 
 Above line is created in one commit. This information is written in different commit.
+
+New branch in github created. Let's see how it works...
